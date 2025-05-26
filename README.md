@@ -11,6 +11,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dadan-rmd&show_icons=true&locale=en&layout=compact" alt="dadan-rmd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dadan-rmd&show_icons=true&locale=en" alt="dadan-rmd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dadan-rmd&" alt="dadan-rmd" /></p>
